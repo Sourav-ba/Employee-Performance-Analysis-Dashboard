@@ -21,4 +21,4 @@ This dashboard shows:
 Attrited Employees
 
 ![Dashboard Preview]
-"C:\Users\SOURAV 16\OneDrive\Pictures\Screenshots\Dashboard.png"
+
